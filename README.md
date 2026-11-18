@@ -5,6 +5,8 @@ A simple Android application built using **Kotlin, Jetpack Compose, Room Databas
 ## Screenshot
 
 ![Department Student Viewer](Screenshot_20261118_233028_DepartmentScreen.jpg)
+![Department Student Viewer](Screenshot From 2026-11-18 23-31-42.png)
+
 
 ## Features
 
