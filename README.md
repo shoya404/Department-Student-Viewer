@@ -2,10 +2,17 @@
 
 A simple Android application built using **Kotlin, Jetpack Compose, Room Database, and MVVM architecture**.
 
-## Screenshot
+## Screenshots
 
-![Department Student Viewer](app_screen.jpg)
-![Department Student Viewer - Screenshot 2](studio_screen.png)
+![Application Screenshot](app_screen.jpg)
+
+<p align="center"><strong>App Snapshot</strong></p>
+
+<br><br>
+
+![Android Studio Screenshot](studio_screen.png)
+
+<p align="center"><strong>Studio Snapshot</strong></p>
 
 
 ## Features
